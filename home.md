@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Welcome to Dark Tooth Trading Company -->
+<!-- SUBTITLE: Please share your secrets. -->
 
-# Header
+# A Header goes here.
