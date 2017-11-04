@@ -4,3 +4,4 @@
 # Trading Floor
 
 Choose a path and perhaps peer into the veil of shadows:
+[Twin Cities by Night](/vtm)
