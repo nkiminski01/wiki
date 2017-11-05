@@ -57,6 +57,8 @@ Council of advisors to the Prince. [Toreadorre]
 * [Alphonse](/home/vtm/npc/alphonse)
 	* [Miyu](/home/vtm/npc/miyu)
 * [Lucind](/home/vtm/npc/lucind)
+### Unknown
+* [King Phillip](/home/vtm/npc/kingphillip)
 ### Caitiff
 * [Lars](/home/vtm/npc/lars)
 * [Rebecca](/home/vtm/npc/rebecca)
