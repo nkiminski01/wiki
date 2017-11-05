@@ -59,6 +59,7 @@ Council of advisors to the Prince. [Toreadorre]
 * [Lucind](/home/vtm/npc/lucind)
 ### Unknown
 * [King Phillip](/home/vtm/npc/kingphillip)
+* [Luther](/home/vtm/npc/luther)
 ### Caitiff
 * [Lars](/home/vtm/npc/lars)
 * [Rebecca](/home/vtm/npc/rebecca)
