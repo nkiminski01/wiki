@@ -61,6 +61,10 @@ Council of advisors to the Prince. [Toreadorre]
 * [Lars](/home/vtm/npc/lars)
 * [Rebecca](/home/vtm/npc/rebecca)
 ## Mortals
+* [Amos(Anus)](/home/vtm/npc/anus)
 * [Chet Manley](/home/vtm/npc/chet)
-* [Christopher "Clean"](home/vtm/npc/christopherclean)
-* [Rích](home/vtm/npc/rich)
+* [Christopher "Clean"](/home/vtm/npc/christopherclean)
+* [Clarence](/home/vtm/npc/clarence)
+* [Francis](/home/vtm/npc/francis)
+* [lolcifer](/home/vtm/npc/lolcifer)
+* [Rích](/home/vtm/npc/rich)
