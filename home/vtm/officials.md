@@ -11,7 +11,7 @@ Council of advisors to the Prince.
 ### Abaddon
 ### Adalise
 ### Anwar
-### ~~Gregor: Brujah~~ (Met Final Death)
+### ~~Gregor~~ (Met Final Death)
 ### Natasha
 ### Niels
 ### Vauclair
