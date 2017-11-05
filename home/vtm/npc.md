@@ -13,7 +13,7 @@ Council of advisors to the Prince. [Toreadorre]
 * [Abaddon](/home/vtm/npc/abaddon) [Nasferatu]
 * [Adalise](/home/vtm/npc/adalise) [Tremere]
 * [Anwar](/home/vtm/npc/anwar) [Followers of Set]
-* ~~[Gregor](/home/vtm/npc/gregor)~~ (Met Final Death)
+* ~~[Gregor](/home/vtm/npc/gregor)~~ (Met Final Death) [Brujah]
 * [Natasha](/home/vtm/npc/natasha) [Gangrel]
 * [Niels](/home/vtm/npc/niels) [Ventrue]
 * [Vauclair](/home/vtm/npc/vauclair) [Toreadorre]
@@ -24,8 +24,8 @@ Council of advisors to the Prince. [Toreadorre]
 * [Constance](/home/vtm/npc/constance)?
 ### Gangrel
 ### Brujah
-* [James](/home/vtm/npc/james)
-* [Carlos](/home/vtm/npc/carlos)
+* [James](/home/vtm/npc/james) (Imprisoned)
+* [Carlos](/home/vtm/npc/carlos) (Missing)
 ### Nasferatu
 * [The Keeper](/home/vtm/npc/thekeeper)
 ### Ventrue
@@ -35,19 +35,18 @@ Council of advisors to the Prince. [Toreadorre]
 * [Monika](/home/vtm/npc/monika)
 ### Malkavian
 * ???
-
 # Sabbat
 ## Clans
 ### Tzsimice
 * [Alexi](/home/vtm/npc/alexi)
 * [Gaunt](/home/vtm/npc/gaunt)
 ### Losambra
-* [Natalia](/home/vtm/npc/natalia)
+* ~~[Talia](/home/vtm/npc/Talia)~~
 ### Assamite
 * [Mario](/home/vtm/npc/mario)
 ### Unknown
 * [Cyril](/home/vtm/npc/cyril)
-* [Tony](/home/vtm/npc/tony)
+* ~~[Tony](/home/vtm/npc/tony)~~
 ### Nasferatu
 * [Robin](/home/vtm/npc/robin)
 
