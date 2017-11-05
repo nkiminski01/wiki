@@ -1,5 +1,4 @@
 <!-- TITLE: Anwar -->
-
-**Primogen**
+<!-- SUBTITLE: Member of the Primogen-->
 
 **Clan:** Follower of Set
