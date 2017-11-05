@@ -3,4 +3,5 @@
 
 # Lisette
 **The Prince**
-**CLAN:** Toreador
+
+**Clan:** Toreador
