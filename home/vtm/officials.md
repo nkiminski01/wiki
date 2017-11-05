@@ -5,10 +5,6 @@
 ## Prince
 ### Lisette
 
-
------
-
-
 ## Primogen
 Council of advisors to the Prince.
 
@@ -19,10 +15,6 @@ Council of advisors to the Prince.
 ### Natasha
 ### Niels
 ### Vauclair
-
-
------
-
 
 ## Sheriff
 ### Samuel
