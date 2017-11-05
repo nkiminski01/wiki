@@ -39,10 +39,22 @@ Council of advisors to the Prince. [Toreadorre]
 # Sabbat
 ## Clans
 ### Tzsimice
+* [Alexi](/home/vtm/npc/alexi)
+* [Gaunt](/home/vtm/npc/gaunt)
 ### Losambra
+* [Natalia](/home/vtm/npc/natalia)
 ### Assamite
+* [Mario](/home/vtm/npc/mario)
+### Unknown
+* [Cyril](/home/vtm/npc/cyril)
+* [Tony](/home/vtm/npc/tony)
+### Nasferatu
+* [Robin](/home/vtm/npc/robin)
 
 # At Large
 ## Clans
 ### Giovanni
-### 
+* [Alphonse](/home/vtm/npc/alphonse)
+	* [Miyu](/home/vtm/npc/miyu)
+* [Lucind](/home/vtm/npc/lucind)
+* 
