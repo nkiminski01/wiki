@@ -57,4 +57,5 @@ Council of advisors to the Prince. [Toreadorre]
 * [Alphonse](/home/vtm/npc/alphonse)
 	* [Miyu](/home/vtm/npc/miyu)
 * [Lucind](/home/vtm/npc/lucind)
-* 
+## Mortals
+* [Chet](/home/vtm/npc/chet)
