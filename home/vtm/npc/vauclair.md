@@ -3,3 +3,6 @@
 
 # General Information
 **Clan:** Torreador
+
+# Backstory
+# Recent Nights
