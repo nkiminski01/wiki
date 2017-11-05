@@ -2,7 +2,7 @@
 
 # Camarilla
 ## Officials
-### Jusicar
+### Justicar
 By appointment of the Camarilla Inner Circle
 * [Anistaz](/home/vtm/npc/anistaz) [Tremere]
 ### Prince
