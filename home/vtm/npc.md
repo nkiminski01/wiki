@@ -46,7 +46,7 @@ Council of advisors to the Prince. [Toreador]
 * ~~[Talia](/home/vtm/npc/Talia)~~
 ### Nasferatu Antitribu
 * [Robin](/home/vtm/npc/robin)
-### Tzsimice
+### Tzimisce
 * [Alexi](/home/vtm/npc/alexi)
 * [Gaunt](/home/vtm/npc/gaunt)
 ### Unknown
@@ -60,6 +60,8 @@ Council of advisors to the Prince. [Toreador]
 * [Alphonse](/home/vtm/npc/alphonse)
 	* [Miyu](/home/vtm/npc/miyu)
 * [Lucind](/home/vtm/npc/lucind)
+### Followers of Set
+### Ravnos
 ### Caitiff
 * [Lars](/home/vtm/npc/lars)
 * [Rebecca](/home/vtm/npc/rebecca)
