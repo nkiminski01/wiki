@@ -9,7 +9,7 @@
 # Backstory
 ??
 # Recent Nights
-* The players were first introduced Gregor when they were brought forth as witnesses for [the trial of James](vtm/events/trial)
+* The players were first introduced to Gregor when they were brought forth as witnesses for [the trial of James](vtm/events/trial)
 * Publically proclaimed his discontent with the results of the trial. 
 * Through a dead drop, Julian passed along a map gained from talking with [James](vtm/npc/james) and [Carlos](vtm/npc/carlos) prior to the trial
 * Julian met with Gregor about the map, but Julian denied ever seeing it and said he could look into it.
