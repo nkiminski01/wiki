@@ -21,21 +21,23 @@ Council of advisors to the Prince. [Toreador]
 * [Samuel](/home/vtm/npc/samuel) [Gangrel]
 
 ## Clans
-### Toreador
-* [Constance](/home/vtm/npc/constance)?
-### Gangrel
 ### Brujah
 * [James](/home/vtm/npc/james) (Imprisoned)
 * [Carlos](/home/vtm/npc/carlos) (Missing)
+### Gangrel
+### Malkavian
+* ???
 ### Nasferatu
 * [The Keeper](/home/vtm/npc/thekeeper)
-### Ventrue
-* [Allie](/home/vtm/npc/allie)
+### Toreador
+* [Constance](/home/vtm/npc/constance)?
 ### Tremere
 * [Bernard](/home/vtm/npc/bernard)
 * [Monika](/home/vtm/npc/monika)
-### Malkavian
-* ???
+### Ventrue
+* [Allie](/home/vtm/npc/allie)
+
+
 # Sabbat
 ## Clans
 ### Assamite
