@@ -2,5 +2,5 @@
 <!-- SUBTITLE: Lisette, the prince -->
 
 # Lisette
-### The Prince
+**The Prince**
 **CLAN:** Toreador
