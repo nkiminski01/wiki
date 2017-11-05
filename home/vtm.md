@@ -8,3 +8,5 @@ Here is a landing page to link to other topics.
 [Storyteller](/home/vtm/st)
 
 [Officials](/home/vtm/officials)
+
+[Events](/home/vtm/events)
