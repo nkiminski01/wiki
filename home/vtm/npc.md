@@ -70,4 +70,5 @@ Council of advisors to the Prince. [Toreadorre]
 * [Clarence](/home/vtm/npc/clarence)
 * [Francis](/home/vtm/npc/francis)
 * [lolcifer](/home/vtm/npc/lolcifer)
+* [Randy Randerson](/home/vtm/npc/randy)
 * [Rích](/home/vtm/npc/rich)
