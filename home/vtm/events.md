@@ -1,5 +1,4 @@
 <!-- TITLE: Events -->
-<!-- SUBTITLE: List of Events -->
 
 # Chronology
 * [Lisette](/home/vtm/officials#prince) has become Prince of the Twin Cities, through some unkown circumstance.
