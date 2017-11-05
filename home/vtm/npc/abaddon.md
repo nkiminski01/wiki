@@ -3,3 +3,6 @@
 
 # General Information
 **Clan:** Nosferatu 
+
+# Backstory
+# Recent Nights
