@@ -2,4 +2,4 @@
 <!-- SUBTITLE: Member of the Primogen-->
 
 # General Information
-**Clan:** Tramere
+**Clan:** Tremere
