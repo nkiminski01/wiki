@@ -1,6 +1,5 @@
 <!-- TITLE: Gregor -->
-<!-- SUBTITLE: Met his final death-->
-<!-- SUBTITLE: Former member of the Primogen-->
+<!-- SUBTITLE: Met his final death. Former member of the Primogen-->
 
 # General Information
-**Clan:** Follower of Set
+**Clan:** Brujah
