@@ -57,5 +57,10 @@ Council of advisors to the Prince. [Toreadorre]
 * [Alphonse](/home/vtm/npc/alphonse)
 	* [Miyu](/home/vtm/npc/miyu)
 * [Lucind](/home/vtm/npc/lucind)
+### Caitiff
+* [Lars](/home/vtm/npc/lars)
+* [Rebecca](/home/vtm/npc/rebecca)
 ## Mortals
-* [Chet](/home/vtm/npc/chet)
+* [Chet Manley](/home/vtm/npc/chet)
+* [Christopher "Clean"](home/vtm/npc/christopherclean)
+* [Rích](home/vtm/npc/rich)
