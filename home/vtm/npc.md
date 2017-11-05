@@ -19,6 +19,7 @@ Council of advisors to the Prince. [Toreador]
 * [Vauclair](/home/vtm/npc/vauclair) [Toreadorre]
 ### Sheriff
 * [Samuel](/home/vtm/npc/samuel) [Gangrel]
+
 ## Clans
 ### Toreador
 * [Constance](/home/vtm/npc/constance)?
@@ -37,18 +38,19 @@ Council of advisors to the Prince. [Toreador]
 * ???
 # Sabbat
 ## Clans
+### Assamite
+* [Mario](/home/vtm/npc/mario)
+### Losambra
+* ~~[Talia](/home/vtm/npc/Talia)~~
+### Nasferatu Antitribu
+* [Robin](/home/vtm/npc/robin)
 ### Tzsimice
 * [Alexi](/home/vtm/npc/alexi)
 * [Gaunt](/home/vtm/npc/gaunt)
-### Losambra
-* ~~[Talia](/home/vtm/npc/Talia)~~
-### Assamite
-* [Mario](/home/vtm/npc/mario)
 ### Unknown
 * [Cyril](/home/vtm/npc/cyril)
 * ~~[Tony](/home/vtm/npc/tony)~~
-### Nasferatu
-* [Robin](/home/vtm/npc/robin)
+
 
 # At Large
 ## Clans
@@ -56,12 +58,13 @@ Council of advisors to the Prince. [Toreador]
 * [Alphonse](/home/vtm/npc/alphonse)
 	* [Miyu](/home/vtm/npc/miyu)
 * [Lucind](/home/vtm/npc/lucind)
-### Unknown
-* [King Phillip](/home/vtm/npc/kingphillip)
-* [Luther](/home/vtm/npc/luther)
 ### Caitiff
 * [Lars](/home/vtm/npc/lars)
 * [Rebecca](/home/vtm/npc/rebecca)
+### Unknown
+* [King Phillip](/home/vtm/npc/kingphillip)
+* [Luther](/home/vtm/npc/luther)
+
 ## Mortals
 * [Amos(Anus)](/home/vtm/npc/anus)
 * [Chet Manley](/home/vtm/npc/chet)
