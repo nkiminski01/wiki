@@ -8,7 +8,7 @@ By appointment of the Camarilla Inner Circle
 ### Prince
 *  [Lisette](/home/vtm/npc/lisette) [Toreador]
 ### Primogen
-Council of advisors to the Prince. [Toreador]
+Council of advisors to the Prince.
 
 * [Abaddon](/home/vtm/npc/abaddon) [Nasferatu]
 * [Adalise](/home/vtm/npc/adalise) [Tremere]
