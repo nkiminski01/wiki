@@ -10,7 +10,7 @@
 * [Lisette's Art Party](/home/vtm/events/artparty) where Don, Frank, and Julian were disciplined.
 * [The Wight Night](/home/vtm/events/wight-night)
 ## Chapter 2
-* A [Purge](/home/vtm/events/purge) was called of the Caitiff in the Twin Cities, to prepare for Anistaz's arrival.
+* A [Purge](/home/vtm/events/purge) of the Caitiff in the Twin Cities was called, to prepare for [Anistaz](/home/vtm/npc/anistaz)'s arrival.
 * [A Trial](/home/vtm/events/the-trial) was held to determine the fate of [Jim](/home/vtm/npc/jim), after the [Purge](/home/vtm/events/purge)
 * [Gregor's Last Night](/home/vtm/events/death-of-gregor)
 * [An attempt on Natasha's Life](/home/vtm/events/assassination-attempt)
