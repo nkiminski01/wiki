@@ -16,7 +16,7 @@ Council of advisors to the Prince. [Toreador]
 * ~~[Gregor](/home/vtm/npc/gregor)~~ [Brujah]
 * [Natasha](/home/vtm/npc/natasha) [Gangrel]
 * [Niels](/home/vtm/npc/niels) [Ventrue]
-* [Vauclair](/home/vtm/npc/vauclair) [Toreadorre]
+* [Vauclair](/home/vtm/npc/vauclair) [Toreador]
 ### Sheriff
 * [Samuel](/home/vtm/npc/samuel) [Gangrel]
 
