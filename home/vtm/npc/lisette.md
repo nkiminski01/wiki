@@ -10,6 +10,13 @@
 * Has been empowered in the Twin Cities for a conciderable time.  
 * Has an iron fist and is quick to anger.  
 
+## Power
+* The power struggle between Lisette and the other primogen leans in Lisette's favor.
+	* This can be seen with how influential her opinion was in Jim's trial
+* Many of the primogen either give open praise of Lisette's rule
+* Other's are more indifferent, but welcome the stability that she has provided
+* [Gregor](/home/vtm/npc/Gregor) was the only voice openly exhibiting resentment of Lisette's rule
+
 # Backstory
 * Became prince of the Twin Cities
 * Employed? the help of Anwar to help smooth over the [Lupine uprising](/home/vtm/events/lupinewar)
