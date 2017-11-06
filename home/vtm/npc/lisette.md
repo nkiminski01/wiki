@@ -32,8 +32,8 @@
 
 ## Chapter 2
 * After the events of the [wight night](/home/vtm/events/wight-night), She became very concerned about the image of the city, and the arrival of an not-yet-named Justicar that may be sent to the city
-* Lisette proclaimed that the city needed to be cleaned up before the arrival of the Justicar [Anistaz](/home/vtm/npc/anistaz)
-* Appointed Samuel in charge of doing the dirtier work of actually cleaning up the city
+* Lisette proclaimed that the city needed to be cleaned up before the arrival of the [Justicar](/home/vtm/npc#justicar) [Anistaz](/home/vtm/npc/anistaz)
+* Appointed [Samuel](/home/vtm/npc/samuel) in charge of doing the [dirtier work of actually cleaning up the city](/home/vtm/events/purge)
 * Headed the tribunal and was the most influencial voice in the enevitable outcome of [the trial of Jim](/home/vtm/events/the-trial)
 * Threw a party for the arrival of Anistaz
 * Allowed/appointed the well known Giovanni investigator, [Lucind](/home/vtm/npc/lucind) to work as an independant Investigator after the [death of Gregor](/home/vtm/events/death-of-gregor)
