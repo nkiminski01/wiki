@@ -8,3 +8,4 @@
 
 
 * A [Purge](/home/vtm/events/purge) was called of the Caitiff in the Twin Cities, to prepare for Anistaz's arrival.
+* [Gregor's Last Night](/home/vtm/events/gregordead)
