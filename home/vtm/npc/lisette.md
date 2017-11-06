@@ -20,7 +20,7 @@
 * Lisette placed Julian in charge of looking into strange events surrounding a construction site
 * After no noticable progress had been made and the trio of players failed to report anything substantial, Lisette made an example by beating the shit out of Don, Frank, and Julian at a ?party?. 
 	* After Don spoke out of turn, Lisette threw him across the room, smashing the exquisite painting of [Rích](/home/vtm/npc/rich)
-	* Lisette turned away Rích from her employ shortly afterwards
+	* Lisette turned away Rích due to this event
 * 
 
 ## Chapter 2
