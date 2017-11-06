@@ -10,3 +10,4 @@
 * A [Purge](/home/vtm/events/purge) was called of the Caitiff in the Twin Cities, to prepare for Anistaz's arrival.
 * [A Trial](/home/vtm/events/the-trial) was held to determine the fate of [Jim](/home/vtm/npc/jim), after the [Purge](/home/vtm/events/purge)
 * [Gregor's Last Night](/home/vtm/events/death-of-gregor)
+* [An attempt on Natasha's Life](/home/vtm/events/assassination-attempt)
