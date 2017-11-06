@@ -1,6 +1,7 @@
 <!-- TITLE: Events -->
 
 # Chronology
+* [Construction site investigation](/home/vtm/events/constructionsiteinvestigation)
 * [Lisette](/home/vtm/npc/lisette) has become Prince of the Twin Cities, through some unkown circumstance.
 * The [Lupine Uprising](/home/vtm/events/lupinewar) is in full swing.
 * [Anwar](/home/vtm/npc/anwar) moves into town and brokers peace between the lupines in the area, and is made [Primogen](/home/vtm/npc#primogen)
