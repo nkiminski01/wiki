@@ -14,4 +14,4 @@ Prior to this Carlos and [Jim](/home/vtm/npc/jim) had been running deliberately 
 Carlos, sometime later called upon Julian because he thought he was being followed.  Neither Julian nor Carlos saw anyone that night.
 A short while after that night Frank and [Robin](/home/vtm/npc/robin) entered into Carlos's apartment for some still unknown purpose.
 
-Carlos has been missing since the night [Gregor](/home/vtm/npc/gregor) was [assassinated](/home/vtm/events/gregordead) and in his apartment there were signs of a struggle ( a bent faucet tap, misaligned freezer door on the fridge and a broken drywall behind the fridge).
+Carlos has been missing since the night [Gregor](/home/vtm/npc/gregor) was [assassinated](/home/vtm/events/death-of-gregor)) and in his apartment there were signs of a struggle ( a bent faucet tap, misaligned freezer door on the fridge and a broken drywall behind the fridge).
