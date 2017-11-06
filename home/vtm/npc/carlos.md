@@ -3,7 +3,7 @@
 
 # General Information
 **Clan:** Brujah
-##Traits
+## Traits
 * Missing
 * Owes Julian a favor.
 # Recent Nights
