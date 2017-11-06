@@ -22,7 +22,7 @@ Council of advisors to the Prince.
 
 ## Clans
 ### Brujah
-* [James](/home/vtm/npc/james) (Imprisoned)
+* [Jim](/home/vtm/npc/jim) (Imprisoned)
 * [Carlos](/home/vtm/npc/carlos) (Missing)
 ### Gangrel
 ### Malkavian
