@@ -30,7 +30,7 @@
 * Headed the tribunal and was the most influencial voice in the enevitable outcome of [the trial of Jim](/home/vtm/events/the-trial)
 * Threw a party for the arrival of Anistaz
 * Allowed/appointed the well known Giovanni investigator, [Lucind](/home/vtm/npc/lucind) to work as an independant Investigator after the [death of Gregor](/home/vtm/events/death-of-gregor)
-	* Has largely stayed out of the spotlight of the investigation, because of the... implications
+	* Has largely stayed out of the spotlight of the investigation... because of the implications
 * Met with Julian as part of Lucind's investigation
 	* Julian convinced Lisette to allow him to speak to [Alexi](/home/vtm/npc/alexi)
 	* Was present for the cryptic conversation between the two of them
