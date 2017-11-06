@@ -32,4 +32,7 @@
 * Allowed/appointed the well known Giovanni investigator, [Lucind](/home/vtm/npc/lucind) to work as an independant Investigator after the [death of Gregor](/home/vtm/events/death-of-gregor)
 	* Has largely stayed out of the spotlight of the investigation, because of the... implications
 * Met with Julian as part of Lucind's investigation
-	* Julian convinced Lisette to allow him to speak to [Alexi](/home/vtm/npc/Alexi)
+	* Julian convinced Lisette to allow him to speak to [Alexi](/home/vtm/npc/alexi)
+	* Was present for the cryptic conversation between the two of them
+* Threw another party, seemingly for Anistaz
+	*  Party cut short by the arrival of [Natasha](/home/vtm/npc/natasha), after an [attempt on Natasha's life had been made.](/home/vtm/events/assassination-attempt)
