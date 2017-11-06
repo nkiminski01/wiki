@@ -35,11 +35,11 @@
 * Lisette proclaimed that the city needed to be cleaned up before the arrival of the [Justicar](/home/vtm/npc#justicar) [Anistaz](/home/vtm/npc/anistaz)
 * Appointed [Samuel](/home/vtm/npc/samuel) in charge of doing the [dirtier work of actually cleaning up the city](/home/vtm/events/purge)
 * Headed the tribunal and was the most influencial voice in the enevitable outcome of [the trial of Jim](/home/vtm/events/the-trial)
-* Threw a party for the arrival of Anistaz
-* Allowed/appointed the well known Giovanni investigator, [Lucind](/home/vtm/npc/lucind) to work as an independant Investigator after the [death of Gregor](/home/vtm/events/death-of-gregor)
+* Threw a party for the arrival of [Anistaz](/home/vtm/npc/anistaz)
+* Allowed/appointed the well known [Giovanni](/home/vtm/npc#giovanni) investigator, [Lucind](/home/vtm/npc/lucind) to work as an independant Investigator after the [death of Gregor](/home/vtm/events/death-of-gregor)
 	* Has largely stayed out of the spotlight of the investigation... because of the implications
-* Met with Julian as part of Lucind's investigation
+* Met with Julian as part of [Lucind](/home/vtm/npc/lucind)'s investigation
 	* Julian convinced Lisette to allow him to speak to [Alexi](/home/vtm/npc/alexi)
 	* Was present for the cryptic conversation between the two of them
-* Threw another party, seemingly for Anistaz
+* Threw another party, seemingly for [Anistaz](/home/vtm/npc/anistaz)
 	*  Party cut short by the arrival of [Natasha](/home/vtm/npc/natasha), after an [attempt on Natasha's life had been made.](/home/vtm/events/assassination-attempt)
