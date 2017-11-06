@@ -7,6 +7,7 @@
 * [Anwar](/home/vtm/npc/anwar) moves into town and brokers peace between the lupines in the area, and is made [Primogen](/home/vtm/npc#primogen)
 ## Chapter 1
 * [Construction site investigation](/home/vtm/events/constructionsiteinvestigation):link:
+	* [A few favors for Alphonse](/home/vtm/events/sabbatactivities)
 * [Lisette's Art Party](/home/vtm/events/artparty):link: where Don, Frank, and Julian were disciplined.
 * [The Wight Night](/home/vtm/events/wight-night):link:
 ## Chapter 2
