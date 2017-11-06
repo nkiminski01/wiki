@@ -41,13 +41,13 @@ Council of advisors to the Prince.
 # Sabbat
 ## Clans
 ### Assamite
-* [Mario](/home/vtm/npc/mario)
+* [Mario](/home/vtm/npc/mario) (Imprisoned)
 ### Losambra
 * ~~[Talia](/home/vtm/npc/Talia)~~
 ### Nasferatu Antitribu
 * [Robin](/home/vtm/npc/robin)
 ### Tzimisce
-* [Alexi](/home/vtm/npc/alexi)
+* [Alexi](/home/vtm/npc/alexi) (Imprisoned)
 * [Gaunt](/home/vtm/npc/gaunt)
 ### Unknown
 * [Cyril](/home/vtm/npc/cyril)
