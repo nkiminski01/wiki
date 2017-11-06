@@ -22,7 +22,7 @@ His Limbs are deformed and hang from his body in an unnatural way
 
 # Recent Nights
 ## Chapter 1
-* Abaddon played no role (from the player's perspective)
+* Abaddon played no role (from the players' perspective)
 
 ## Chapter 2
 * Frank meets Abaddon in the sewers (#1)
