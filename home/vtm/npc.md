@@ -6,7 +6,7 @@
 By appointment of the Camarilla Inner Circle
 * [Anistaz](/home/vtm/npc/anistaz) [Tremere]
 ### Prince
-*  [Lisette](/home/vtm/npc/lisette)
+*  [Lisette](/home/vtm/npc/lisette) [Toreador]
 ### Primogen
 Council of advisors to the Prince. [Toreador]
 
