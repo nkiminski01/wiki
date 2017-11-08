@@ -10,7 +10,7 @@
 * Loves to hear himself talk
 * Not outwardly ambitious
 ## Power
-* Although he sits on the council, Vauclair does not seem to be one to undermine Lisette's authority at any turn. She can do no wrong in his eyes
+* Although he sits on the council, Vauclair does not seem to be one to undermine Lisette's authority at any turn. From what the players know, She can seemingly do no wrong in his eyes
 * Lisette can count on Vauclair to agree with any descision she has made
 # Backstory
 # Recent Nights
