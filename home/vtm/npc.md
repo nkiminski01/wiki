@@ -69,6 +69,11 @@ Council of advisors to the Prince.
 * [King Phillip](/home/vtm/npc/kingphillip)
 * [Luther](/home/vtm/npc/luther)
 
+## Unmastered
+* [Claire](/home/vtm/npc/claire)?
+* [Ezekiel](/home/vtm/npc/Ezekiel)?
+* [King Phillip](/home/vtm/npc/kingphillip)??
+
 ## Mortals
 * [Amos(Anus)](/home/vtm/npc/anus)
 * [Chet Manley](/home/vtm/npc/chet)
