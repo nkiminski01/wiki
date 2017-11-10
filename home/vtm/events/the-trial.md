@@ -1,6 +1,5 @@
 <!-- TITLE: The Trial of Jim-->
-<!-- SUBTITLE: That time where Jim gets frozen in ~~carbonite~~ concrete-->
-
+*That time where Jim gets frozen in ~~carbonite~~ concrete*
 # Testimony
 The trio of Don, Frank, and Julian are called to testify at Jim's trial
 The party is mostly forthcoming, though they do not mention a few things: the interrogation of Jim and any findings from that (notibly that Anwar supplied a map); Carlos being involved; the discussion with Rích 
