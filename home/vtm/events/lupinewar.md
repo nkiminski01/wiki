@@ -4,4 +4,4 @@
 # WAR - What is it good for?
 There was open violence between kindred and werewolves in the Twin Cities and it lasted until it ended.
 
-Anwar did some stuff, and was rewarded by being appointed a primogen.
+[Anwar](/home/vtm/npc/anwar) did some stuff, and was rewarded by being appointed a primogen.
