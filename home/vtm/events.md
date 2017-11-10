@@ -6,8 +6,8 @@
 * The [Lupine Uprising](/home/vtm/events/lupinewar):link: 
 ## Chapter 1
 * [Construction site investigation](/home/vtm/events/constructionsiteinvestigation):link:
-	* [A few favors for Alphonse](/home/vtm/events/sabbatactivities):link:
 * [Talia](/home/vtm/npc/talia) encountered and subsequently captured
+* [A few favors for Alphonse](/home/vtm/events/sabbatactivities):link:
 * [Lisette's Art Party](/home/vtm/events/artparty):link: where Don, Frank, and Julian were disciplined.
 * [The Wight Night](/home/vtm/events/wight-night):link:
 ## Chapter 2
