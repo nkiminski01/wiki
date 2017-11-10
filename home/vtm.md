@@ -5,8 +5,7 @@
 
 Here is a landing page to link to other topics.
 
-[NPCs](/home/vtm/npc)
-
-[Events](/home/vtm/events)
+* [NPCs](/home/vtm/npc)
+* [Events](/home/vtm/events)
 
 [Storyteller](/home/vtm/st)
