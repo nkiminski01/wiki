@@ -26,7 +26,7 @@ Council of advisors to the Prince.
 * [Carlos](/home/vtm/npc/carlos) (Missing)
 ### Gangrel
 ### Malkavian
-* ???
+* [Malkavian](home/vtm/events/malkavian)
 ### Nasferatu
 * [The Keeper](/home/vtm/npc/thekeeper)
 ### Toreador
