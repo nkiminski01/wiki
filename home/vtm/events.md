@@ -17,3 +17,4 @@
 * [A Trial](/home/vtm/events/the-trial):link: was held to determine the fate of [Jim](/home/vtm/npc/jim), after the [Purge](/home/vtm/events/purge):link:
 * [Gregor's Last Night](/home/vtm/events/death-of-gregor):link:
 * [An attempt on Natasha's Life](/home/vtm/events/assassination-attempt):link:
+* [The mugging of Frank](/home/vtm/events/frank-mugged):link:
