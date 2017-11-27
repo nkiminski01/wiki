@@ -4,6 +4,7 @@
 ## Prior events
 * [Lisette](/home/vtm/npc/lisette) has become Prince of the Twin Cities, through some unknown circumstance.
 * The [Lupine Uprising](/home/vtm/events/lupinewar):link: 
+* The [Malkavian Migration](/home/vtm/events/malkavian):link:
 ## Chapter 1
 * [Construction site investigation](/home/vtm/events/constructionsiteinvestigation):link:
 * [Talia](/home/vtm/npc/talia) encountered and subsequently captured
